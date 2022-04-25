@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_cv_cvs",
+  "info": {
+    "displayName": "CV",
+    "icon": "file-pdf",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    }
+  }
+}

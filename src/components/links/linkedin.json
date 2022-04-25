@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_links_linkedins",
+  "info": {
+    "displayName": "linkedin",
+    "icon": "hands-helping"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    }
+  }
+}

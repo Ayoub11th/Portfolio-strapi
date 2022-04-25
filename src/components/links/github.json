@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_links_githubs",
+  "info": {
+    "displayName": "github",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    }
+  }
+}
